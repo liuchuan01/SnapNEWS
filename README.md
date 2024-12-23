@@ -64,3 +64,4 @@ SnapNews/
 - 建议使用Python 3.8或更高版本
 - 确保良好的网络连接以获取新闻和进行AI处理
 # SnapNEWS
+# SnapNEWS
